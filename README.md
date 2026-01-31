@@ -8,6 +8,9 @@ A browser-based Rock Paper Scissors game where the user plays against the comput
 - Result calculation and winner declaration
 - Restart functionality
 
+## Live Demo
+-  https://sushant4k.github.io/rock-paper-scissors-js/
+
 ## Technologies Used
 - HTML
 - CSS
