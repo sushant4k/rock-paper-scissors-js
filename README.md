@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dbee2bef-5a26-4c2f-b86c-5926934730c0" /># Rock Paper Scissors Game
+# Rock Paper Scissors Game
 
 ## Preview
 ![Game Preview](screenshot.png)
